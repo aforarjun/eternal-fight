@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    min-height: 100px;
+    padding: 0 85px;
+    background-color: var(--primary-clr);
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo img{
+    width: 229px;
+    height: 64px;
+    object-fit: cover;
+    object-position: center;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    width: clamp(420px, 39vw, 745px);
+    list-style: none;
+}
+.links .link {
+    font-size: clamp(0.83vw, 2vw, 1.73vw);
+    line-height: 2;
+    font-weight: 400;
+    font-family: "agency";
+    color: var(--green);
+    cursor: pointer;
+    text-transform: uppercase;
+}
+  

@@ -1,0 +1,17 @@
+.roadmap-step{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    min-height: 600px;
+}
+
+.step-title{
+    margin-top: clamp(70px, 9vw, 170px);
+    font-size: 75px;
+    font-family: "lato-black";
+    color: rgb(129, 166, 43);
+    line-height: 1.222;
+    text-align: center;
+    max-width: 200px;
+}

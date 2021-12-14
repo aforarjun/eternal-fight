@@ -1,0 +1,20 @@
+.section{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    min-height: 600px;
+}
+.auto-height{
+    min-height: auto;
+}
+.title{
+    font-size: 75px;
+    font-family: "lato-black";
+    color: #343434;
+    line-height: 1.2;
+    font-weight: 800;
+    text-align: center;
+}
+  

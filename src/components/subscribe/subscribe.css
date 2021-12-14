@@ -1,0 +1,8 @@
+.subscribe-container{
+    position: relative;
+    margin: clamp(150px, 22vw, 400px) auto;
+    max-width: 1440px;
+    min-height: 850px;
+    background-color: #262a32;
+    border-radius: 50px;
+}
