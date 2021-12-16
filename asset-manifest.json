@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/eternal-fight/static/css/main.289b255a.chunk.css",
-    "main.js": "/eternal-fight/static/js/main.285cd068.chunk.js",
-    "main.js.map": "/eternal-fight/static/js/main.285cd068.chunk.js.map",
+    "main.css": "/eternal-fight/static/css/main.439f0736.chunk.css",
+    "main.js": "/eternal-fight/static/js/main.959852de.chunk.js",
+    "main.js.map": "/eternal-fight/static/js/main.959852de.chunk.js.map",
     "runtime-main.js": "/eternal-fight/static/js/runtime-main.6c998a90.js",
     "runtime-main.js.map": "/eternal-fight/static/js/runtime-main.6c998a90.js.map",
     "static/js/2.91f56367.chunk.js": "/eternal-fight/static/js/2.91f56367.chunk.js",
     "static/js/2.91f56367.chunk.js.map": "/eternal-fight/static/js/2.91f56367.chunk.js.map",
     "index.html": "/eternal-fight/index.html",
-    "static/css/main.289b255a.chunk.css.map": "/eternal-fight/static/css/main.289b255a.chunk.css.map",
+    "static/css/main.439f0736.chunk.css.map": "/eternal-fight/static/css/main.439f0736.chunk.css.map",
     "static/js/2.91f56367.chunk.js.LICENSE.txt": "/eternal-fight/static/js/2.91f56367.chunk.js.LICENSE.txt",
     "static/media/App.css": "/eternal-fight/static/media/MYRIADPRO-BOLD.24292333.OTF",
     "static/media/DISCORD.c00bc56c.png": "/eternal-fight/static/media/DISCORD.c00bc56c.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.6c998a90.js",
     "static/js/2.91f56367.chunk.js",
-    "static/css/main.289b255a.chunk.css",
-    "static/js/main.285cd068.chunk.js"
+    "static/css/main.439f0736.chunk.css",
+    "static/js/main.959852de.chunk.js"
   ]
 }
