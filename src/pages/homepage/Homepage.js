@@ -22,13 +22,13 @@ function Homepage() {
 
                 <Section title='ROADMAP' autoHeight='auto-height' />
 
-                <Step stepTitle='PHASE 01' />
+                <Step stepTitle='01' />
 
-                <Step stepTitle='PHASE 02' />
+                <Step stepTitle='02' />
 
-                <Step stepTitle='PHASE 03' />
+                <Step stepTitle='03' />
 
-                <Step stepTitle='PHASE 04' />
+                <Step stepTitle='04' />
 
                 <Section title='SUPPORTERS & INVESTERS' />
 

@@ -7,9 +7,11 @@
 
   padding: 5px;
   font-size: 41.667px;
-  font-family: "lato";
-  color: rgb(238, 238, 237);
   line-height: 1.2;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  
+  color: rgb(238, 238, 237);
   text-align: center;
   border-width: 4px;
   border-color: rgb(129, 166, 43);

@@ -21,22 +21,26 @@
     top: 55.59vh;
 }
 .hero h1{
-    font-family: 'CircusOfInnocents';
+    font-family: MyridPro;
     font-size: 25.59pt;
-    line-height: 22.75pt;
     font-weight: 500;
     color: rgb(237, 237, 236);
     font-style: italic;
     text-align: left;
 }
-
+.to-protect{
+    line-height: 30.75pt;
+}
 .hero .green-text-color{
-    font-family: "CircusOfInnocents";
+    font-family: CircusOfInnocence;
     color: var(--green);
     font-size: 51.18pt;
-    line-height: 53.75pt;
+    line-height: 48.75pt;
     font-style: italic;
-    font-weight: 900;
+    font-weight: 800;
+}
+.real-war{
+    line-height: 22.75pt;
 }
 .hero-social{
     position: relative;
@@ -55,3 +59,4 @@
 .hero-social img:last-child{
     margin-right: 0;
 }
+  

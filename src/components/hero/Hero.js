@@ -15,9 +15,9 @@ function Hero() {
         <div className="hero">
             <img src={HeroImage} alt="hero" className='hero-image' />
             <div className="hero-text">
-                <h1>TO PROTECT</h1>
+                <h1 className='to-protect'>TO PROTECT</h1>
                 <h1 className='green-text-color'>GREEN</h1>
-                <h1>THE REAL WAR BEGIN HERE!</h1>
+                <h1 className='real-war'>THE REAL WAR BEGIN HERE!</h1>
             </div>
 
             <div className='hero-social'>

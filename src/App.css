@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: CircusOfInnocence;
+    src: url('./FONTS/Circus\ Of\ Innocents.ttf');
+}
+
+@font-face {
+    font-family: MyridPro;
+    src: url("./FONTS/myriad-pro-cufonfonts/MYRIADPRO-BOLD.OTF") format("opentype");
+}
+
 :root {
     --green: #81a62b;
     --primary-clr: #000918;

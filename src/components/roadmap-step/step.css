@@ -9,10 +9,14 @@
 .step-title{
     margin-top: clamp(70px, 9vw, 170px);
     font-size: 75px;
-    font-family: "lato-black";
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
     color: rgb(129, 166, 43);
     line-height: 1.222;
     text-align: center;
     max-width: 250px;
     text-align: center;
+}
+.step-title span{
+    font-family: 'Agency FB';
 }

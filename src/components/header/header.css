@@ -28,7 +28,8 @@
     font-size: clamp(0.83vw, 2vw, 1.73vw);
     line-height: 2;
     font-weight: 400;
-    font-family: "agency";
+    font-family: 'Agency FB', arial;
+
     color: var(--green);
     cursor: pointer;
     text-transform: uppercase;
