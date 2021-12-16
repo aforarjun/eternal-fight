@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
 
-    min-height: 600px;
+    min-height: 1000px;
 }
 
 .step-title{
@@ -13,5 +13,6 @@
     color: rgb(129, 166, 43);
     line-height: 1.222;
     text-align: center;
-    max-width: 200px;
+    max-width: 250px;
+    text-align: center;
 }

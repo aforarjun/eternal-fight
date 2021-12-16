@@ -2,9 +2,9 @@ import React from 'react';
 
 import './button.css';
 
-function Button( {children} ) {
+function Button( {children, smallBtn} ) {
     return (
-        <div className='custom-btn'>
+        <div className={ `${smallBtn != null ? 'small-btn' : ''} custom-btn`}>
             {children}
         </div>
     )

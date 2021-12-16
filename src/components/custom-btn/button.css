@@ -1,21 +1,28 @@
 .custom-btn {
-    width: 260px;
-    height: 68px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 260px;
+  height: 68px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-    padding: 5px;
-    font-size: 41.667px;
-    font-family: "lato";
-    color: rgb(238, 238, 237);
-    line-height: 1.2;
-    text-align: center;
-    border-width: 4px;
-    border-color: rgb(129, 166, 43);
-    border-style: solid;
-    border-radius: 30px;
+  padding: 5px;
+  font-size: 41.667px;
+  font-family: "lato";
+  color: rgb(238, 238, 237);
+  line-height: 1.2;
+  text-align: center;
+  border-width: 4px;
+  border-color: rgb(129, 166, 43);
+  border-style: solid;
+  border-radius: 30px;
+  cursor: pointer;
 }
 
-  
-  
+
+.small-btn {
+  font-size: 10pt;
+  border-width: 2px;
+  width: 113px;
+  height: 27px;
+  margin: auto;
+}

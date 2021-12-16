@@ -5,4 +5,40 @@
     min-height: 850px;
     background-color: #262a32;
     border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+.subscribe-container h2{
+    padding-top: 180px;
+    font-size: 75px;
+    font-family: "lato-black";
+    color: rgb(129, 166, 43);
+    line-height: 1.056;
+    text-align: center;
+}
+
+.subscribe-container p{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: "lato-300";
+    color: #747474;
+    line-height: 1.056;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.subscribe-container input{
+    background-color: #ffffff;
+    opacity: 0.278;
+    width: 446px;
+    height: 32px;
+    color: black;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    border: none;
+    font-size: 18px;
+} 
+
+  

@@ -1,13 +1,13 @@
 import React from 'react'
 // import { Link } from 'react-router-dom';
 
-import HeroImage from '../../assets/hero.png';
-// import SocialIcon1 from '../../assets/';
-// import SocialIcon2 from '../../assets/hero.png';
-// import SocialIcon3 from '../../assets/hero.png';
-// import SocialIcon4 from '../../assets/hero.png';
-// import SocialIcon5 from '../../assets/hero.png';
-// import SocialIcon6 from '../../assets/hero.png';
+import HeroImage from '../../assets/final BG.jpg';
+import SocialIcon1 from '../../assets/TWITTER.png';
+import SocialIcon2 from '../../assets/INSTA.png';
+import SocialIcon3 from '../../assets/DISCORD.png';
+import SocialIcon4 from '../../assets/YT.png';
+import SocialIcon5 from '../../assets/TELEGRAM.png'
+import SocialIcon6 from '../../assets/MEDIUM.png';
 import './hero.css'
 
 function Hero() {
@@ -21,13 +21,12 @@ function Hero() {
             </div>
 
             <div className='hero-social'>
-                { // <img src={SocialIcon1} alt="hero" className='hero-image' />
-                // <img src={SocialIcon2} alt="hero" className='hero-image' />
-                // <img src={SocialIcon3} alt="hero" className='hero-image' />
-                // <img src={SocialIcon4} alt="hero" className='hero-image' />
-                // <img src={SocialIcon5} alt="hero" className='hero-image' />
-                // <img src={SocialIcon6} alt="hero" className='hero-image' /> 
-                }
+                <img src={SocialIcon1} alt="hero" />
+                <img src={SocialIcon2} alt="hero" />
+                <img src={SocialIcon3} alt="hero" />
+                <img src={SocialIcon4} alt="hero" />
+                <img src={SocialIcon5} alt="hero" />
+                <img src={SocialIcon6} alt="hero" />
             </div>
         </div>
     )
