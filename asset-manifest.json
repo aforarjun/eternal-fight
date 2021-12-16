@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/eternal-fight/static/css/main.2aed217c.chunk.css",
+    "main.js": "/eternal-fight/static/js/main.2791c935.chunk.js",
+    "main.js.map": "/eternal-fight/static/js/main.2791c935.chunk.js.map",
+    "runtime-main.js": "/eternal-fight/static/js/runtime-main.6c998a90.js",
+    "runtime-main.js.map": "/eternal-fight/static/js/runtime-main.6c998a90.js.map",
+    "static/js/2.91f56367.chunk.js": "/eternal-fight/static/js/2.91f56367.chunk.js",
+    "static/js/2.91f56367.chunk.js.map": "/eternal-fight/static/js/2.91f56367.chunk.js.map",
+    "index.html": "/eternal-fight/index.html",
+    "static/css/main.2aed217c.chunk.css.map": "/eternal-fight/static/css/main.2aed217c.chunk.css.map",
+    "static/js/2.91f56367.chunk.js.LICENSE.txt": "/eternal-fight/static/js/2.91f56367.chunk.js.LICENSE.txt",
+    "static/media/DISCORD.c00bc56c.png": "/eternal-fight/static/media/DISCORD.c00bc56c.png",
+    "static/media/EF logo.23e5784f.png": "/eternal-fight/static/media/EF logo.23e5784f.png",
+    "static/media/INSTA.5b407a6d.png": "/eternal-fight/static/media/INSTA.5b407a6d.png",
+    "static/media/MEDIUM.0459a40d.png": "/eternal-fight/static/media/MEDIUM.0459a40d.png",
+    "static/media/TELEGRAM.294700de.png": "/eternal-fight/static/media/TELEGRAM.294700de.png",
+    "static/media/TWITTER.33192647.png": "/eternal-fight/static/media/TWITTER.33192647.png",
+    "static/media/YT.692f481e.png": "/eternal-fight/static/media/YT.692f481e.png",
+    "static/media/final BG.2a222b4b.jpg": "/eternal-fight/static/media/final BG.2a222b4b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c998a90.js",
+    "static/js/2.91f56367.chunk.js",
+    "static/css/main.2aed217c.chunk.css",
+    "static/js/main.2791c935.chunk.js"
+  ]
+}
